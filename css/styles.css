@@ -1,0 +1,58 @@
+#start-button {
+    max-width: 120px;
+}
+
+.info {
+    padding: 0 16px;
+}
+
+.info__title {
+    font-size: 45px;
+    margin-bottom: 22px;
+}
+
+.info__text {
+    font-size: 20px;
+}
+
+.info .info__btn {
+    font-size: 22px;
+    background: #D76F33;
+    border: none;
+}
+
+.game-section {
+    color: white;
+}
+
+.title {
+    padding-top: 45px;
+    padding-bottom: 42px;
+}
+
+.title__text {
+    max-width: 600px;
+    margin: 0 auto;
+    padding-top: 10px;
+}
+
+.card {
+    margin-bottom: 70px;
+}
+
+.card-title {
+    font-size: 18px;
+}
+
+.card-text {
+    font-size: 14px;
+}
+
+.footer {
+    padding-top: 45px;
+}
+
+.footer .footer__button {
+    background: #D76F33;
+    margin-top: 10px;
+}
